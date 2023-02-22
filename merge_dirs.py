@@ -1,7 +1,7 @@
 '''Takes a pattern to find in directory names. Merges\n
    all files in matching directories into a directory\n
    of the pattern's name. Files from each directory are\n
-   copied and their names prefixed with the pattern.'''
+   copied and their names prefixed with the directory name.'''
 
 # Author:  Austin Schultz (aschultz37)
 # Updated: 02/22/2023
