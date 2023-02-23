@@ -15,4 +15,6 @@ Files from each directory are copied and their names prefixed with the directory
   
 ## Usage Notes
 - Requires script to be outside the super-directory.  
-- Super-directory should contain _only_ directories (no files).
+- Super-directory should contain _only_ directories (no files).  
+- Does not always work with special characters in pattern due to \ escape character.
+  - Best practice to use standard file name conventions (no spaces, special chars).
